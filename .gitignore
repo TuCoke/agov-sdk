@@ -1,0 +1,15 @@
+# 构建产物
+*.exe
+*.dll
+*.so
+*.dylib
+/bin/
+/dist/
+
+# IDE
+.idea/
+.vscode/
+.openidea/
+
+# 构建器临时目录
+.agov/
